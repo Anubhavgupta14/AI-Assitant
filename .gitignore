@@ -1,0 +1,15 @@
+.DS_Store
+.ipynb_checkpoints
+*.pyc
+.env
+*.log
+venv/
+.idea/
+experiments/
+.coverage
+.vscode/
+.pytest_cache
+__pycache__
+run.sh
+.nyc_output/
+.cursor/
