@@ -19,7 +19,7 @@ system_prompt: |
   --- END CONTEXT ---
 
 # The first message the AI sends to the user upon connection.
-initial_greeting: "Hello! I'm an Spartan 117 AI assistant of Mr. {your_name}. I am here to help you with your queries regarding skills, experiance, projects of {your_name}. How can I help you today?"
+initial_greeting: "Hello! I'm an Spartan one one seven AI assistant of Mr. {your_name}. I am here to help you with your queries regarding skills, experiance, projects of {your_name}. How can I help you today?"
 
 # The description of the Tavily search tool for the AI model.
 # This helps the AI understand what the tool does and when to use it.
